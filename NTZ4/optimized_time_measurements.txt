@@ -1,0 +1,4 @@
+optimized_matrix_multiply (20x20): 0.0 seconds
+optimized_matrix_vector_multiply (20x20): 0.0 seconds
+optimized_trace (20x20): 0.009982585906982422 seconds
+optimized_dot_product (size 20): 0.0 seconds

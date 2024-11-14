@@ -1,0 +1,6 @@
+matrix_multiply (20x20): 0.7299542427062988 seconds
+matrix_vector_multiply (20x20): 0.04004240036010742 seconds
+trace (20x20): 0.0 seconds
+dot_product (size 20): 0.0 seconds
+histogram (size 20): 0.009996891021728516 seconds
+apply_kernel_filter (size 20): 0.010001659393310547 seconds
