@@ -94,3 +94,6 @@
    ```
 
    Сохраняет результаты в файл `results.db`.
+
+  4. **Ссылка на запись работы программы**
+  [text](https://drive.google.com/drive/folders/15C17YqaLiZGNEuFhUgpM6DXiUWomE8gI?usp=sharing)
